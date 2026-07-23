@@ -1,5 +1,6 @@
 # MoreFastFood | 更多快餐
 ⚠️ Not to be confused with other similarly named mods. This project is fully independent original work.
+
 ⚠️ 请勿与名称近似的其他模组混淆，本项目为完全独立原创作品。
 
 MoreFastFood is a food expansion mod made with MCreator for Minecraft 1.12.2 Forge.
