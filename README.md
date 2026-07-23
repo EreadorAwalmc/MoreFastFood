@@ -1,6 +1,9 @@
 # MoreFastFood | 更多快餐
+⚠️ Not to be confused with other similarly named mods. This project is fully independent original work.
+⚠️ 请勿与名称近似的其他模组混淆，本项目为完全独立原创作品。
+
 MoreFastFood is a food expansion mod made with MCreator for Minecraft 1.12.2 Forge.
-MoreFastFood 是使用 MCreator 制作的食物拓展模组，适用于 Minecraft 1.12.2 Forge。
+MoreFastFood 是使用 MCreator 制作的食物拓展模组，适用于 Minecraft 1.12.2 Forge.
 
 ## 🧾 Added Items / 新增物品
 - Raw Hamburger 生汉堡
@@ -23,6 +26,8 @@ Full MCreator workspace archive is available in repository assets.
 - Mod Loader: Forge
 - Develop Tool: MCreator
 - Current Version: v1.0.0-r1
+- Required on both Client and Server
+- 客户端与服务端均需要安装本模组
 
 ## 📜 Open Source License
 This project is licensed under **CC-BY-SA 4.0**.
@@ -34,5 +39,5 @@ This project is licensed under **CC-BY-SA 4.0**.
 https://creativecommons.org/licenses/by-sa/4.0/
 
 ## 🔗 Mod Distribution Platform
-Modrinth：Under review
-CurseForge:[https://www.curseforge.com/minecraft/mc-mods/awalmcs-more-fastfood](Awalmc's More Fast Food)
+- Modrinth：Under review
+- CurseForge：[Awalmc's More Fastfood](https://www.curseforge.com/minecraft/mc-mods/awalmcs-more-fastfood)
