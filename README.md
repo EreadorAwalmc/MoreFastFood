@@ -35,3 +35,4 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 ## 🔗 Mod Distribution Platform
 Modrinth：Under review
+CurseForge:[https://www.curseforge.com/minecraft/mc-mods/awalmcs-more-fastfood](Awalmc's More Fast Food)
