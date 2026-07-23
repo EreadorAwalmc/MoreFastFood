@@ -34,4 +34,5 @@ This project is licensed under **CC-BY-SA 4.0**.
 https://creativecommons.org/licenses/by-sa/4.0/
 
 ## 🔗 Mod Distribution Platform
-Modrinth：【填入你的Modrinth项目链接】
+Modrinth：
+- []Under review
